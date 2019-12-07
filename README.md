@@ -1,2 +1,0 @@
-# server-open
-open Server
